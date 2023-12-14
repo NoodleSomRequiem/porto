@@ -8,25 +8,25 @@ function getBoss()
 
         [
             "id" => 4,
-            "image" => "http://localhost/porto/AJAX/img/Artifi.png",
+            "image" => "http://localhost/porto/img/Hello.png",
             "name" => "A.I. trainer",
 
         ],
         [
             "id" => 3,
-            "image" => "http://localhost/porto/AJAX/img/flowa.png",
+            "image" => "http://localhost/porto/img/lisa drawing.png",
             "name" => "Eco buddy",
 
         ],
         [
             "id" => 2,
-            "image" => "http://localhost/porto/AJAX/img/spider.png",
+            "image" => "http://localhost/porto/img/spider 4000.png",
             "name" => "Fighting bots",
 
         ],
         [
             "id" => 1,
-            "image" => "http://localhost/porto/AJAX/img/popkoor.png",
+            "image" => "http://localhost/porto/img/popkoor.jpg",
             "name" => "Popkoor!",
 
         ]
