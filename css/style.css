@@ -45,6 +45,7 @@ footer {
     max-width: 800px;
     border-radius: 12px;
     line-height: 1.5;
+    border: 10px solid #000000;
 }
 
 footer a {
@@ -55,6 +56,12 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+
+
+
+
+
 
 
 
